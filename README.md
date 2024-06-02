@@ -5,6 +5,6 @@ This project was created to complete the QAE Take Home Test assignment using Jav
 - Clone this repo
 - Run `npm i`
 - Install `C-Access` application on your phone
-- Change the `deviceName` and `platformVersion` in `wdio.conf.js` file according to the phone that will be used
+- Change the `deviceName` and `platformVersion` in `wdio.conf.js` file according to the device that will be used
 - Run `appium -p 4727` on your terminal to start Appium server
 - Run `npx wdio wdio.conf.js` to run the test
